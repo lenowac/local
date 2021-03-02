@@ -1,8 +1,6 @@
 # local
-Set up a local test enviroment for your website the lazy way. 
-Designed for computer illiterates.
-
-Do not use in production!
+Set up a local ***test*** enviroment for your website the lazy way. 
+Designed for computer illiterates to get started with frontend development.
 
 
 ## Installation
