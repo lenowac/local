@@ -56,7 +56,7 @@ Designed for admins to get newbies up and running with wordpress with minimal ef
 
 
 ---------------
-## Hilfe
+## HELP!
 Restarting your system after big changes a good idea and solves a lot of problems. So, do it.
 <br>
 
