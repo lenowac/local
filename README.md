@@ -18,6 +18,7 @@ Designed for admins to get newbies up and running with wordpress with minimal ef
 ### Note for admins 
   - strip all irrelevant data (logins, passwords) before giving out the database!
   - adjust the wordpress files to the database login defaults (usually: usr='root' and pwd='root')
+  - prepackage this repo with all needed files.
 
 ---------------
 ## Installation
