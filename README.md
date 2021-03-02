@@ -1,6 +1,6 @@
 # local
 Set up a local ***test*** enviroment for your website the lazy way. 
-Designed for computer illiterates to get started with frontend development.
+Designed for admins to get newbies up and running with wordpress with minimal effort.
 
 
 ## Installation
@@ -81,6 +81,7 @@ Restarting your system after big changes a good idea and solves a lot of problem
 
   ### P: 'www.zip' fehlt
   L: schau nach ob du die zipdatei mit heruntergeladen hast; liegt sie im selben ordner wie 'setup.bat' ?
+  Wenn du gar keine 'www.zip' datei hast solltest du deinen admin danach fragen.
 
   
 
