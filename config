@@ -1,0 +1,9 @@
+# currently not in use
+
+[Settings]
+Activate downloads = no
+Add localhost to hosts = no
+
+[Downloads]
+www content = https://
+Database = https://
