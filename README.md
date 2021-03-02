@@ -88,7 +88,7 @@ Restarting your system after big changes a good idea and solves a lot of problem
 
 <br>
 
-Ein Systemneustart is empholen und löst viele Probleme, also mach das bitte.
+Ein Systemneustart is empfohlen und löst viele Probleme, also mach das bitte.
 <details> <summary>Ich habe probleme</summary> 
   
   Das ist schade, aber akzeptanz ist der erste schritt hin zur lösung.
