@@ -2,7 +2,24 @@
 Set up a local ***test*** enviroment for your website the lazy way. 
 Designed for admins to get newbies up and running with wordpress with minimal effort.
 
+## Preparation
+- You need to put the 'www.zip' in the same folder as the README.md
+- Have your database (its usually a '.sql' or '.sql.zip' file) ready
 
+
+<details> <summary>Deutsch</summary> 
+  
+  - Lege dein 'www.zip' archiv in den gleichen ordner wo ua. README.md, setup.bat liegen
+  - Halte deine datenbank bereit (typischerweise eine '.sql' oder '.sql.zip' datei)
+  
+</details>
+
+
+### Note for admins 
+  - strip all irrelevant data (logins, passwords) before giving out the database!
+  - adjust the wordpress files to the database login defaults (usually: usr='root' and pwd='root')
+
+---------------
 ## Installation
 1. Download / clone the whole repo
 2. run the appropriate script for your system (windows -> setup.bat; linux, macOS -> setup.sh)
@@ -36,6 +53,8 @@ Designed for admins to get newbies up and running with wordpress with minimal ef
 3. gehe auf http://localhost um deine seite zu sehen.
 </details>
 
+
+---------------
 ## Post Install
 Restarting your system after big changes a good idea and solves a lot of problems. So, do it.
 <br>
