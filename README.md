@@ -87,6 +87,7 @@ Restarting your system after big changes a good idea and solves a lot of problem
 
 <br>
 
+Es immer eine gute idee dein system nach großen änderungen neu zu starten, also mach das bitte.
 <details> <summary>Ich habe probleme</summary> 
   
   Das ist schade, aber akzeptanz ist der erste schritt hin zur lösung.
