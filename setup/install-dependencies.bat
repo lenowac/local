@@ -19,17 +19,24 @@ timeout 4
 :: Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
 :::: ab hier kann alles problemlos angepasst werden. ::::
-
-:: Tools
-choco install git -y
-choco install vscode -y
-choco install firefox -y
+:: Required
 choco install mamp -y
-
-:: Python
 choco install python3 -y
 python -m pip install --upgrade pip
 pip install pywin32
 
+:choice
+set /P c=Install git, vscode and firefox as well? (Y/N)
+if /I "%c%" EQU "Y" goto :Yes
+if /I "%c%" EQU "N" goto :No
+goto :choice
+
+:Yes
+:: Additional
+choco install git -y
+choco install vscode -y
+choco install firefox -y
+
+:No
 :: Update
 choco upgrade all -y
